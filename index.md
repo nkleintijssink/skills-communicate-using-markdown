@@ -2,8 +2,8 @@
 
 ![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
 
-'''
+```
 Python
 example = "Hello world!
 print(example)
-'''
+```
